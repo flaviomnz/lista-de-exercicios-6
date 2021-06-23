@@ -6,7 +6,8 @@ public class exercicio6 {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Digite a data de nascimento: EX: (dd/mm/aaaa)");
         String[] dataMesAno = scanner.nextLine().split("/");
-        System.out.println(dataMesAno);
+
+        //Vou terminar.
 
 
     }
